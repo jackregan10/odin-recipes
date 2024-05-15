@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 200px;
+}
+.header {
+    color: rgb(142, 226, 142);
+    background-color:antiquewhite;
+}
